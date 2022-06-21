@@ -6,8 +6,7 @@ void main() {
 
   String instituteName = """
 GLA University,
-Mathura,
-Uttar Pradesh
+Mathura
 """;
 print(instituteName);
 }
