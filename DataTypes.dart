@@ -3,4 +3,11 @@ void main() {
   print(distance);
   print("Distance from Delhi to GLA is: ${distance} kms");
   print("${distance} kms");
+
+  String instituteName = """
+GLA University,
+Mathura,
+Uttar Pradesh
+""";
+print(instituteName);
 }
